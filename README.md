@@ -7,6 +7,5 @@ Different characteristics of CNN Architecture were manipulated to evaluate accur
 
 <h2> Below is the link to the CIFAR10 dataset:</h2>
 
-### <a href="https://www.w3schools.com/](https://www.bing.com/search?pglt=41&q=cifar10&cvid=8b137a9f2f8a4abe8c03f81961f02ecc&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGDsyBggCEEUYOTIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQRRg8MgYIBxBFGDwyBggIEEUYPNIBCDE4MzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=NMTS)https://www.bing.com/search?pglt=41&q=cifar10&cvid=8b137a9f2f8a4abe8c03f81961f02ecc&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGDsyBggCEEUYOTIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQRRg8MgYIBxBFGDwyBggIEEUYPNIBCDE4MzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=NMTS">CIFAR10 Dataset</a>
-
+### <a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR10 Dataset</a>
 
